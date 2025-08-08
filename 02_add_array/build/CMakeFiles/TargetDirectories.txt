@@ -1,0 +1,3 @@
+/home/sagarmalik/Documents/git/MPI/02_add_array/build/CMakeFiles/arraysum.dir
+/home/sagarmalik/Documents/git/MPI/02_add_array/build/CMakeFiles/edit_cache.dir
+/home/sagarmalik/Documents/git/MPI/02_add_array/build/CMakeFiles/rebuild_cache.dir

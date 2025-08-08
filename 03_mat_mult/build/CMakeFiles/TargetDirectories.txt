@@ -1,0 +1,3 @@
+/home/sagarmalik/Documents/git/MPI/03_mat_mult/build/CMakeFiles/mat_mult.dir
+/home/sagarmalik/Documents/git/MPI/03_mat_mult/build/CMakeFiles/edit_cache.dir
+/home/sagarmalik/Documents/git/MPI/03_mat_mult/build/CMakeFiles/rebuild_cache.dir
